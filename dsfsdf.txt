@@ -1,0 +1,1 @@
+vless://69475fa2-6661-4463-8feb-4b9d94cc7fa3@79.141.214.238:443?security=reality&encryption=none&pbk=S6atIpEujJVI1jxsm02pBmJAA3_W0GuOfeHXhepXdBQ&headerType=none&fp=chrome&sid=b9b836e702540590&sni=yandex.ru&flow=xtls-rprx-vision&type=tcp#REALITY-79.141.214.238
